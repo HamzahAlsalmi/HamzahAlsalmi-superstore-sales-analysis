@@ -28,6 +28,14 @@ The dashboard highlights:
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png) 
+
+## Key Insights
+
+- Technology products generate the highest revenue among all categories.
+- The West region contributes the largest share of total sales.
+- The Consumer segment drives the majority of revenue.
+- Sales show an overall upward trend over time.
+- A small number of customers and products contribute a large share of total revenue.
 
 ## Project Structure
